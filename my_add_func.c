@@ -1,4 +1,4 @@
 int add (int x, int y) {
-    // TODO ADD FUNCTION HERE
+    return x + y;
 }
 
